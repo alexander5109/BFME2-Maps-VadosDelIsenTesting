@@ -1,0 +1,44 @@
+//----------------------------------//
+Map:VadosDelIsenTesting09
+"Fords of Anduin: 09v3 Testing"
+END
+Map:VadosDelIsenTesting09/Desc
+"Speed toggler, commandpoint bonus, production bonus, recharge bonus, some buildings insta build up."
+END
+//-----------------------------------//
+
+//-----------------------------flags--------------------------//
+CONTROLBAR:FastForwardToggle_New
+"Fast-Forward Toggle"
+END
+CONTROLBAR:FastForwardToggleDesc_New
+"Toggles the game visual speed between x1 and x3"
+END
+SCRIPT:SpeedMultiplierActivated
+"Speed Multiplier activated"
+END
+SCRIPT:SpeedMultiplierEnabled
+"Speed mult. set to 3x"
+END
+SCRIPT:SpeedMultiplierDisabled
+"Speed mult. set to 1x"
+END
+//-----------------------------------//
+
+
+
+
+COUNTER:FramesUntilDestroyed
+"Frames untill destroyed"
+End
+
+
+SCRIPT:Abracadabra
+"Testing mode:\n Abracadabra!"
+End
+SCRIPT:GameTimeMinutes
+"Minutes in game"
+End
+SCRIPT:GameTimeSeconds
+"Seconds in game"
+End
