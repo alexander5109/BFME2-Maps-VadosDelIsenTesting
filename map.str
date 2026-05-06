@@ -28,8 +28,16 @@ END
 
 
 
-COUNTER:FramesUntilDestroyed
-"Frames untill destroyed"
+COUNTER:FramesUntilDestroyed1
+"Level 1 kill time:"
+End
+
+COUNTER:FramesUntilDestroyed2
+"Level 5 kill time:"
+End
+
+COUNTER:FramesUntilDestroyed3
+"Level 10 kill time:"
 End
 
 
